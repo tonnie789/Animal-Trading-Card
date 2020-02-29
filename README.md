@@ -1,5 +1,5 @@
 # Animal-Trading-Card
-During my Udacity Nanodegree course I had to develop an animal trading card as part of my CSS module assessment, below were the requirements:
+I developed an animal trading card, styled using CSS as part of my Udacity nandodegree, below were the requirements:
 
 Design
 
